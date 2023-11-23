@@ -1,5 +1,5 @@
 // README.md
-# Auth & User management API
+# E-commerce back-end
 ### Introduction
 This project is an e-commerce back-end built with a micro services architecture to manage authentification, products and orders. 
 ### Project Support Features
@@ -7,7 +7,7 @@ This project is an e-commerce back-end built with a micro services architecture 
 * it can also offer product management.
 * it can manage order creation.
 
-### API Endpoints
+### The services
 * You can check the Order Service[here](https://github.com/MohamedRach/e-commerce_microservice_orderService) 
 * You can check the Product Service[here](https://github.com/MohamedRach/ecommerce_microservice_ProductService) 
 * You can check the Authentification Service[here](https://github.com/MohamedRach/e-commerce_microservice_authService) 
